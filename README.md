@@ -1,26 +1,9 @@
-## react-customppcontrol
+## Custom Property Pane Control 
 
-This is where you include your WebPart documentation.
+Custom Property Pane Control which extend the Dropdown control available in SPFx Fabric UI React
 
-### Building the code
+### To Do
 
-```bash
-git clone the repo
-npm i
-npm i -g gulp
-gulp
-```
+- Read from API and return lists in site
+- Auto Complete
 
-This package produces the following:
-
-* lib/* - intermediate-stage commonjs build artifacts
-* dist/* - the bundled script, along with other resources
-* deploy/* - all resources which should be uploaded to a CDN.
-
-### Build options
-
-gulp clean - TODO
-gulp test - TODO
-gulp serve - TODO
-gulp bundle - TODO
-gulp package-solution - TODO

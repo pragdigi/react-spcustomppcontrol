@@ -19,6 +19,7 @@ import { IListItemsWebPartProps } from "./IListItemWebPartProps";
 export default class ListItemsWebPart extends BaseClientSideWebPart<
   IListItemsWebPartProps
 > {
+  // this uses mock data, will add API calls soon.
   private loadLists(): Promise<IDropdownOption[]> {
     return new Promise<IDropdownOption[]>(
       (
