@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-customppcontrol-client-side-solution",
+    "id": "73e64b3e-5b37-4dd8-9086-6df3cedc2c27",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/react-customppcontrol.sppkg"
+  }
+}
